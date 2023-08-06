@@ -1,0 +1,24 @@
+.header__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 6.4rem;
+  padding-bottom: 6.4rem;
+}
+.site-logo {
+  transition: 0.3s;
+}
+.site-logo:hover {
+  opacity: 0.8;
+}
+.site-logo:active {
+  opacity: 0.6;
+}
+// .site-logo__image {
+// }
+// .header__link {
+// }
+// .btn {
+// }
+// .btn-dark {
+// }

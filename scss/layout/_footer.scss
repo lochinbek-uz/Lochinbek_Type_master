@@ -1,0 +1,38 @@
+.footer__container {
+  margin-top: 16.8rem;
+}
+.footer__nidivi {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 3rem;
+}
+.footer__h3 {
+  margin-bottom: 2.4rem;
+  font-size: 24px;
+  width: 100%;
+  max-width: 255px;
+}
+.footer__p {
+  color: $silver-color;
+  width: 100%;
+  max-width: 255px;
+}
+.footer__PP {
+  margin-top: 12.8rem;
+  text-align: center;
+  margin-bottom: 2rem;
+  color: $silver-color;
+}
+.footer__PP span {
+  color: $silver-color;
+  font-weight: 700;
+}
+.footer__rasmlari {
+  width: 100%;
+  max-width: 255px;
+  height: 323px;
+}
+.footer__rasmlari img {
+  margin-bottom: 4.8rem;
+}
